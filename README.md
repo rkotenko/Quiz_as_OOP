@@ -1,4 +1,4 @@
-Simple_Javascript_Quiz
+Quiz using OOP and unit testing
 ======================
 
 This iteration has been converted to use objects.  The major navigation is done via the Quiz object.  Questions are objects as well as are Users.  However, the users are really just a skeleton.  I was going to extend here to store quiz answers via ajax calls to files, but will instead be doing that in other versions.
